@@ -6,7 +6,7 @@ A playful web app that lets you create wacky, AI-powered stories and images! Cho
 
 ## Play with the App
 
-To be able to play with the app, you can visit the live demo at: Coming Soon!
+To be able to play with the app, you can visit the live demo at: [https://kathleenwest.github.io/wacky-madlib-frontend/](https://kathleenwest.github.io/wacky-madlib-frontend/)
 
 ## Demo Video
 
