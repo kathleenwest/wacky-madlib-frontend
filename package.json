@@ -1,0 +1,15 @@
+{
+  "name": "wacky-madlib-generator-simple-example",
+  "type": "module",
+  "description": "A simple example of a Wacky Madlib Generator using OpenAI's API and Vite",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
