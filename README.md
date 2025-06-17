@@ -111,6 +111,11 @@ To reduce AI costs, story and image responses are cached for 1 month.
 - 🚀 by Kathleen West
 - Powered by OpenAI, Cloudflare Workers, and Cloudflare AI Gateway
 
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
 ---
 Keep the nonsense alive!
 
