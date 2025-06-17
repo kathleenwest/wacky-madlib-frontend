@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wacky Madlib Generator</title>
+    <meta name="description" content="Create your own wacky stories with the Wacky Madlib Generator! Choose from a variety of silly creatures, verbs, and adjectives to generate a unique story.">
+    <meta name="keywords" content="madlib, generator, wacky, story, fun, interactive, AI, creative writing">
+    <meta name="author" content="Kathleen West">
+    <link rel="icon" href="/wacky-madlib-frontend/assets/favicon-CdcKS60C.ico" type="image/x-icon">
+  <script type="module" crossorigin src="/wacky-madlib-frontend/assets/index-jw4rbV8R.js"></script>
+  <link rel="stylesheet" crossorigin href="/wacky-madlib-frontend/assets/index-BslDkBVA.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <img src="/wacky-madlib-frontend/assets/logo-N6_XaZ1P.png" alt="Wacky Madlib Logo" id="logo">
+        <h1>Wacky Madlib Generator*</h1>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <p>Fill in the blanks and create the weirdest, most ridiculous story ever!</p>
+
+        <!-- Story Generation Section -->
+        <section id="story-section">
+            <div id="inputs">
+                <label for="noun">Choose a wacky creature:</label>
+                <select id="noun">
+                    <option value="disco-raccoon">Disco Raccoon</option>
+                    <option value="ninja-sloth">Ninja Sloth</option>
+                    <option value="electric-zebra">Electric Zebra</option>
+                    <option value="mystical-mosquito">Mystical Mosquito</option>
+                    <option value="pirate-hamster">Pirate Hamster</option>
+                </select>
+
+                <label for="verb">Choose a wacky verb:</label>
+                <select id="verb">
+                    <option value="boogie">Boogie</option>
+                    <option value="twirl">Twirl</option>
+                    <option value="wiggle">Wiggle</option>
+                    <option value="snorfle">Snorfle</option>
+                    <option value="bamboozle">Bamboozle</option>
+                </select>
+
+                <label for="adjective">Choose a crazy adjective:</label>
+                <select id="adjective">
+                    <option value="squishy">Squishy</option>
+                    <option value="boingy">Boingy</option>
+                    <option value="glittery">Glittery</option>
+                    <option value="wiggly">Wiggly</option>
+                    <option value="funkadelic">Funkadelic</option>
+                </select>
+
+                <button id="generate-story-button">Generate Story</button>
+            </div>
+            
+            <div id="story-output"></div>
+        </section>
+
+        <!-- Image Generation Section -->
+        <section id="image-section">
+            <h2>My Story Picture</h2>
+            <p>Click the button below to create an AI-generated picture that matches your story!</p>           
+            <button id="generate-image-button">Create a Picture</button>
+            <div id="image-output"></div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; Keep the nonsense alive! 🚀 by Kathleen West</p>
+        <p>*Note: This is only a demo app. Due to AI 💲 costs, story and image responses are cached for 1 month.</p>
+    </footer>
+
+</body>
+</html>
