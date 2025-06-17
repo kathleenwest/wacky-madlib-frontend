@@ -1,7 +1,7 @@
 import {defineConfig} from "vite"
 
 export default defineConfig({
-	base: "/wacky-madlib-chat-app-simple-example-frontend",
+	base: "/wacky-madlib-frontend",
 	plugins: [
 		
 	]
