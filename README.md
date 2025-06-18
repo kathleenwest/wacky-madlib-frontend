@@ -106,6 +106,12 @@ The Cloudflare AI Gateway is used to securely route all AI-related API requests 
 
 To reduce AI costs, story and image responses are cached for 1 month.
 
+## Backend Project
+
+[cloudflare-openai-worker](https://github.com/kathleenwest/cloudflare-openai-worker)
+
+A Cloudflare Worker with simple HTTP endpoints for generating Madlib stories and images using OpenAI APIs. Features /madlib for story creation and /image for AI-generated images. Built with itty-router and the OpenAI Node.js SDK. 
+
 ## Credits
 
 - 🚀 by Kathleen West
