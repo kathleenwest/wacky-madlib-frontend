@@ -117,11 +117,6 @@ A Cloudflare Worker with simple HTTP endpoints for generating Madlib stories and
 - 🚀 by Kathleen West
 - Powered by OpenAI, Cloudflare Workers, and Cloudflare AI Gateway
 
-## License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
-
 ---
 Keep the nonsense alive!
 
