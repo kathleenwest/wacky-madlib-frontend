@@ -4,6 +4,27 @@ A playful web app that lets you create wacky, AI-powered stories and images! Cho
 
 ![Wacky Madlib Logo](/images/demo-start.jpg)
 
+## Table of Contents
+
+- [Wacky Madlib Generator](#wacky-madlib-generator)
+  - [Table of Contents](#table-of-contents)
+  - [Play with the App](#play-with-the-app)
+  - [Demo Videos](#demo-videos)
+    - [Wacky Madlib App Marketing Video](#wacky-madlib-app-marketing-video)
+    - [Behind the Code, Architecture, and Demo](#behind-the-code-architecture-and-demo)
+  - [Project Overview](#project-overview)
+  - [Features](#features)
+  - [Architecture](#architecture)
+    - [About Cloudflare AI Gateway](#about-cloudflare-ai-gateway)
+  - [File Structure](#file-structure)
+  - [Installation](#installation)
+  - [Running the App](#running-the-app)
+  - [Usage](#usage)
+  - [Backend Endpoints](#backend-endpoints)
+  - [Caching](#caching)
+  - [Backend Project](#backend-project)
+  - [Credits](#credits)
+
 ## Play with the App
 
 To be able to play with the app, you can visit the live demo at: [https://kathleenwest.github.io/wacky-madlib-frontend/](https://kathleenwest.github.io/wacky-madlib-frontend/)
